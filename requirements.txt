@@ -1,0 +1,6 @@
+geopandas
+pandas
+seaborn
+matplotlib
+openpyxl
+contextily
